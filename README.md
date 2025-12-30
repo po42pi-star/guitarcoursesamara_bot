@@ -47,13 +47,13 @@
 
 ## 📸 Скриншоты
 
-[screenshot 01](https://github.com/po42pi-star/guitarcoursesamara_bot/blob/main/IMG_2033.PNG)
+![screenshot 01](https://github.com/po42pi-star/guitarcoursesamara_bot/blob/main/IMG_2033.PNG)
 
-[screenshot 02](https://github.com/po42pi-star/guitarcoursesamara_bot/blob/main/IMG_2034.PNG)
+![screenshot 02](https://github.com/po42pi-star/guitarcoursesamara_bot/blob/main/IMG_2034.PNG)
 
-[screenshot 03](https://github.com/po42pi-star/guitarcoursesamara_bot/blob/main/IMG_2035.PNG)
+![screenshot 03](https://github.com/po42pi-star/guitarcoursesamara_bot/blob/main/IMG_2035.PNG)
 
-[screenshot 04](https://github.com/po42pi-star/guitarcoursesamara_bot/blob/main/Google.PNG)
+![screenshot 04](https://github.com/po42pi-star/guitarcoursesamara_bot/blob/main/Google.PNG)
 
 ## 🎯 Заключение
 
