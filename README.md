@@ -53,7 +53,7 @@
 
 ![screenshot 03](https://github.com/po42pi-star/guitarcoursesamara_bot/blob/main/IMG_2035.PNG)
 
-![screenshot 04](https://github.com/po42pi-star/guitarcoursesamara_bot/blob/main/Google.PNG)
+![screenshot 04](https://github.com/po42pi-star/guitarcoursesamara_bot/blob/main/Google.jpg)
 
 ## 🎯 Заключение
 
